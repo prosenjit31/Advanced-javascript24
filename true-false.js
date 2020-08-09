@@ -10,7 +10,7 @@
 let name =false;
 
 
-if(name ){
+if(name  ){
    console.log("condition is true"); 
 }
 else{
